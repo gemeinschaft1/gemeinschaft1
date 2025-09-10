@@ -4,7 +4,7 @@
 
 I am a Firmware Engineer specializing in the architecture of intelligent embedded systems, currently completing my final year at Institut Teknologi Bandung (ITB). My work is driven by a mission to embed intelligence where it matters most: at the edge.
 
-Besides my specialization in firmware, I am looking to bridge the critical gap between resource-constrained hardware and real-world machine learning deployment. I look to leverage my technical skills to engineer sophisticated monitoring solutions that power the next generation of technology in vital areas like disaster prevention, ocean robotics, smart farming, and sustainable aquatech.
+Besides my specialization in firmware, I am looking to bridge the critical gap between the development of resource-constrained hardware and real-world environmental problems. I look to leverage my technical skills to engineer sophisticated monitoring solutions that power the next generation of technology in vital areas like disaster prevention, ocean robotics, smart farming, and sustainable aquatech.
 
 ---
 
@@ -12,33 +12,84 @@ Besides my specialization in firmware, I am looking to bridge the critical gap b
 
 Firmware & Embedded Systems
 
-<p>
+<p align="left">
+<!-- C -->
+<a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/>
+</a>
+<!-- C++ -->
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
+</a>
+<!-- Arduino -->
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
+</a>
+<!-- Zephyr -->
+<a href="https://www.zephyrproject.org/" target="_blank" rel="noreferrer">
 <img src="https://www.zephyrproject.org/wp-content/uploads/2023/03/Zephyr_color-13.png" alt="Zephyr" width="80" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg" alt="FreeRTOS" width="75" height="35"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png" alt="Linux" width="40" height="40"/>
+</a>
+<!-- FreeRTOS -->
+<a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg" alt="FreeRTOS" width="70" height="40"/>
+</a>
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
+<a href="https://www.platformio.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" alt="PlatformIO" width="40" height="40"/>
+</a>
 </p>
 
 Machine Learning & Data Science
 
-<p>
+<p align="left">
+<!-- Python -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+</a>
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+</a>
+<!-- Scikit-learn -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-<img src="https://img.icons8.com/color/512/pandas.png" alt="pandas" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png" alt="numpy" width="40" height="40"/>
-<img src="https://teknedatalabs.com/wp-content/uploads/2023/10/pyspark.png" alt="PySpark" width="100" height="40"/>
+</a>
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+</a>
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+</a>
+<!-- PySpark -->
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" alt="PySpark" height="40"/>
+</a>
 </p>
 
 Geospatial Intelligence
 
-<p>
+<p align="left">
+<!-- QGIS -->
+<a href="https://www.qgis.org/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/>
-<img src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/earth-engine-icon.png" alt="GEE" width="40" height="40"/>
+</a>
+<!-- Google Earth Engine -->
+<a href="https://earthengine.google.com/" target="_blank" rel="noreferrer">
+<img src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/earth-engine-icon.png" alt="Google Earth Engine" width="40" height="40"/>
+</a>
+<!-- geemap -->
+<a href="https://geemap.org/" target="_blank" rel="noreferrer">
 <img src="https://book.geemap.org/_static/logo.png" alt="geemap" width="40" height="40"/>
+</a>
 </p>
 
 ---
