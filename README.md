@@ -14,8 +14,8 @@ Firmware & Embedded Systems
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/zephyr/243f87" alt="Zephyr" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/freertos/E60012" alt="FreeRTOS" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Zephyr_RTOS_logo_2015.svg" alt="Zephyr" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg" alt="FreeRTOS" width="40" height="40"/>
 </p>
 
 Machine Learning & Data Science
