@@ -2,11 +2,13 @@
 
 💡 **Firmware Engineer | IoT Developer | Machine Learning**
 
-I design and build reliable embedded systems, turning hardware into smart connected solutions.
+I am a Firmware Engineer specializing in the architecture of intelligent embedded systems, currently completing my final year at Institut Teknologi Bandung (ITB). My work is driven by a mission to embed intelligence where it matters most: at the edge.
+
+Besides my specialization in firmware, I am looking to bridge the critical gap between resource-constrained hardware and real-world machine learning deployment. I look to leverage my technical skills to engineer sophisticated monitoring solutions that power the next generation of technology in vital areas like disaster prevention, ocean robotics, smart farming, and sustainable aquatech.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ My Tech Stacks
 
 Firmware & Embedded Systems
 
@@ -16,7 +18,7 @@ Firmware & Embedded Systems
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Zephyr_RTOS_logo_2015.svg" alt="Zephyr" width="50" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg" alt="FreeRTOS" width="75" height="35"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Linux_mascot_tux.png" alt="Linux" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png" alt="Linux" width="40" height="40"/>
 </p>
 
 Machine Learning & Data Science
