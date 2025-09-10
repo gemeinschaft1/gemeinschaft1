@@ -20,6 +20,7 @@ Besides my specialization in firmware, I am looking to bridge the critical gap b
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg" alt="FreeRTOS" width="70" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" alt="PlatformIO" width="40" height="40"/>
+<img src="https://arcanesciencelab.wordpress.com/wp-content/uploads/2022/12/espressif-systems-logo.png" alt="ESP-IDF" width="40" height="40"/>
 </p>
 
 **Machine Learning & Data Science**
