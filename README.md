@@ -1,12 +1,6 @@
-# 👋 Hi, I'm Ridwan
+# 👋 Hello There! I am Ridwan
 
-💡 **Data Scientist | Machine Learning Engineer | IoT Technologist**
-
-I am a Data Scientist and Machine Learning Engineer with a background in IoT and firmware engineering, currently completing my final year at Institut Teknologi Bandung (ITB). My work focuses on building intelligent, data-driven systems — from connected sensors at the edge to scalable analytical models in the cloud.
-
-I specialize in developing **end-to-end machine learning pipelines**, **data analytics systems**, and **AI-enabled embedded solutions** that address real-world challenges in domains such as environmental monitoring, oceanography, smart farming, and sustainable technology.
-
-My vision is to bridge **embedded intelligence** and **data intelligence** — empowering sensors not only to collect data, but to learn from it.
+I am a Data Enthusiast with a background in Environmental Informatics (Oceanography), currently completing my final year at Institut Teknologi Bandung (ITB). My personal project focuses on building business-oriented data science project and intelligent data pipeline. Besides of that I am also currently finishing my final thesis project on the application of CNNs on satellite imagery reconstruction.    
 
 ---
 
@@ -35,7 +29,7 @@ My vision is to bridge **embedded intelligence** and **data intelligence** — e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bigquery/bigquery-original.svg" alt="BigQuery" width="40" height="40"/>
 </p>
 
-**Geospatial & Environmental Data Science**
+**Geospatial Intelligence**
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="QGIS" width="40" height="40"/>
@@ -44,7 +38,7 @@ My vision is to bridge **embedded intelligence** and **data intelligence** — e
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gis/gis-original.svg" alt="GIS" width="40" height="40"/>
 </p>
 
-**IoT & Embedded Intelligence**
+**IoT**
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/>
@@ -53,25 +47,7 @@ My vision is to bridge **embedded intelligence** and **data intelligence** — e
 <img src="https://arcanesciencelab.wordpress.com/wp-content/uploads/2022/12/espressif-systems-logo.png" alt="ESP-IDF" width="40" height="40"/>
 <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" alt="PlatformIO" width="40" height="40"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-- 🧭 **Ocean Data Analytics Platform** → Built a Python-based machine learning pipeline to detect and visualize significant SST anomalies across Indonesia using KDE-based p-value computation and satellite data integration.  
-- 🌾 **Smart Agriculture Prediction System** → Developed a crop yield prediction model combining IoT sensor data with machine learning regression to optimize water and fertilizer use.  
-- ⚙️ **Edge AI for Environmental Monitoring** → Deployed a TinyML model on ESP32 for real-time greenhouse gas detection and anomaly alerting via MQTT.  
-- 📊 **Energy Consumption Forecasting** → Implemented time-series forecasting (ARIMA, LSTM) to predict building energy demand patterns.  
-
----
-
-## 🎯 What I’m Focusing On
-
-- Developing cloud-based ML pipelines for large-scale IoT data  
-- Integrating TinyML models into low-power embedded systems  
-- Applying machine learning to environmental, oceanographic, and sustainability problems  
-- Exploring MLOps workflows for automated model deployment  
-
+  
 ---
 
 ## 🌍 Connect with Me
@@ -79,7 +55,3 @@ My vision is to bridge **embedded intelligence** and **data intelligence** — e
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
 - 📧 [ridwanramadhan8585@gmail.com](mailto:ridwanramadhan8585@gmail.com)  
 - 🌐 [Portfolio / Projects](#) *(coming soon)*
-
----
-
-⭐ *"Data is the language of the planet — and my goal is to help it speak through intelligent systems."*
